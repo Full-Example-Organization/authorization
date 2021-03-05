@@ -18,7 +18,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IdentityServerHost.Quickstart.UI
+namespace IdentityServerHost.Controllers.UI
 {
     [SecurityHeaders]
     [AllowAnonymous]

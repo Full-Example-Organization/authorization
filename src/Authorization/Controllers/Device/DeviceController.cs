@@ -17,7 +17,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace IdentityServerHost.Quickstart.UI
+namespace IdentityServerHost.Controllers.UI
 {
     [Authorize]
     [SecurityHeaders]
